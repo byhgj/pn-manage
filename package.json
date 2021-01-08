@@ -1,0 +1,28 @@
+{
+  "name": "pn-manage",
+  "version": "1.0.1",
+  "description": "phoenix nirvana manager",
+  "main": "index.js",
+  "bin": {
+    "pn": "bin/pn.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byhgj/pn-manage.git"
+  },
+  "keywords": [
+    "phoenixvirvana"
+  ],
+  "author": "byhgj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byhgj/pn-manage/issues"
+  },
+  "homepage": "https://github.com/byhgj/pn-manage#readme",
+  "dependencies": {
+    "pn-framework": "^1.0.0"
+  }
+}
